@@ -1,2 +1,2 @@
 # jupyterlab-data-visualization
-a engine for data visualization on jupyterlab
+an engine for data visualization on jupyterlab
