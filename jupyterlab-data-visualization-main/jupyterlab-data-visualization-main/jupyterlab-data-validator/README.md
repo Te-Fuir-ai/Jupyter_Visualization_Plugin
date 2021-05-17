@@ -1,4 +1,4 @@
 **后端数据处理**
 
 
-利用facets组件进行数据处理，与前端react组件的接口python包处于datavalidator文件夹中的data_validator.py文件中，调用facets组件中的两个库函数进行数值分析，并最终通过react前端组件中的DataModel函数将数据以可视化形式展示
+利用facets组件进行数据处理，与前端react组件的接口python包处于visualization文件夹中的data_validator.py文件中，调用facets组件中的两个库函数进行数值分析，并最终通过react前端组件中的DataModel函数将数据以可视化形式展示
