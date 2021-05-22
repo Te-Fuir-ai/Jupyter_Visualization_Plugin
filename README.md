@@ -7,4 +7,4 @@ A visualization plugin for jupyterlab by React and Facets.
 
 在本次的大一立项中，需要感谢组内五位成员，是各位共同的努力使得一个个难题能够被解决。
 
-@yuge-byte  @Ghaser  
+@yuge-byte  @Ghaser  @lizi-GKX  
